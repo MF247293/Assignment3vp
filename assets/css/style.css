@@ -48,3 +48,8 @@ body {
     color: var(--text-gray);
     max-width: 450px;
 }
+.hero-right {
+    background-color: var(--yellow);
+    min-height: 80vh;
+    position: relative;
+}
