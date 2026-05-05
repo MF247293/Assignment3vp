@@ -176,5 +176,19 @@ body {
 .insight-card:hover {
     transform: translateY(-4px);
 }
+.insight-img-wrapper {
+    position: relative;
+}
+
+.insight-tag {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background-color: var(--yellow);
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
 
 
