@@ -112,4 +112,10 @@ body {
     filter: grayscale(0%);
     opacity: 1;
 }
+ /* styling about section*/
+.about-heading {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
 
