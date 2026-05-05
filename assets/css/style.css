@@ -1,0 +1,23 @@
+/* ===== DESIGN VARIABLES ===== */
+:root {
+    --yellow: #F5C200;
+    --dark: #1A1A2E;
+    --purple: #3D2C8D;
+    --white: #FFFFFF;
+    --light-gray: #F8F8F8;
+    --text-dark: #222222;
+    --text-gray: #666666;
+    --font-main: 'Segoe UI', sans-serif;
+}
+
+/*------- Boiler Plate-------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-main);
+    color: var(--text-dark);
+}
