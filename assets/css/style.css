@@ -143,3 +143,8 @@ body {
     font-size: 0.88rem;
     color: var(--text-gray);
 }
+
+ /* story and help card styling*/
+ .story-card {
+    background-color: var(--yellow);
+}
