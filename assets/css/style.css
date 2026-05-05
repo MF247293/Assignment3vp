@@ -222,4 +222,12 @@ body {
     font-size: 0.8rem;
     text-decoration: none;
 }
+.footer-copy {
+    font-size: 0.78rem;
+    color: #777;
+}
 
+.footer-brand {
+    color: white;
+    font-weight: 700;
+}
