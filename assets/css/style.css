@@ -108,4 +108,8 @@ body {
     filter: grayscale(100%);
     opacity: 0.7;
 }
+.featured-logo:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
 
