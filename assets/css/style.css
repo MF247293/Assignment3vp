@@ -68,3 +68,9 @@ body {
         padding: 40px 20px;
     }
 }
+
+/* ===== REVIEWS SECTION ===== */
+.reviews-heading {
+    font-size: 2rem;
+    font-weight: 700;
+}
