@@ -34,3 +34,6 @@ body {
 .hero-section {
     min-height: 80vh;
 }
+.hero-left {
+    background-color: var(--white);
+}
