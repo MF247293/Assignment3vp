@@ -124,4 +124,8 @@ body {
     line-height: 1.7;
 }
  /* styling features section*/
- 
+
+.features-heading {
+    font-size: 2rem;
+    font-weight: 700;
+}
