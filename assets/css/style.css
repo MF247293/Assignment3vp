@@ -244,3 +244,6 @@ body {
 .footer-links a:hover {
     color: var(--yellow);
 }
+.newsletter-box {
+    background-color: var(--yellow);
+}
