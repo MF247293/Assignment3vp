@@ -247,3 +247,20 @@ body {
 .newsletter-box {
     background-color: var(--yellow);
 }
+
+/*  RESPONSIVE width and hight */
+@media (max-width: 576px) {
+    /* Mobile 360px */
+    .hero-heading { font-size: 1.8rem; }
+    .about-heading { font-size: 1.5rem; }
+    .cta-heading { font-size: 1.5rem; }
+    .hero-buttons { flex-direction: column; }
+    .footer { text-align: center; }
+    .social-icons { justify-content: center; }
+}
+
+@media (max-width: 768px) {
+    /* Tablet */
+    .hero-heading { font-size: 2.2rem; }
+    .hero-right { min-height: 50vh; }
+}
