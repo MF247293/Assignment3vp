@@ -164,3 +164,9 @@ body {
     font-size: 1rem;
     opacity: 0.85;
 }
+ /* insight card styling*/
+ .insights-heading {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
