@@ -134,3 +134,12 @@ body {
     height: 60px;
     object-fit: contain;
 }
+.feature-title {
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.feature-text {
+    font-size: 0.88rem;
+    color: var(--text-gray);
+}
