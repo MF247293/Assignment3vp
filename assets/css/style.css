@@ -53,3 +53,7 @@ body {
     min-height: 80vh;
     position: relative;
 }
+.hero-phone-img {
+    max-height: 500px;
+    object-fit: contain;
+}
