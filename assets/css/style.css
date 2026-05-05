@@ -30,3 +30,7 @@ body {
 .navbar .nav-link:hover {
     color: var(--yellow);
 }
+
+.hero-section {
+    min-height: 80vh;
+}
