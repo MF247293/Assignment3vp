@@ -37,3 +37,9 @@ body {
 .hero-left {
     background-color: var(--white);
 }
+.hero-heading {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--text-dark);
+}
